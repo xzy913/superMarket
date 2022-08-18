@@ -1,0 +1,10 @@
+.auto{
+    margin: 0,auto;
+    white-space:nowrap;
+    width: 1300px;
+  }
+  .input{
+    width:40px;
+    border:none;
+    outline: none;
+  }

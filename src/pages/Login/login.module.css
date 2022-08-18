@@ -1,0 +1,88 @@
+* {
+    margin: 0 auto;
+  }
+  .body {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+  .img {
+    width: 1519px;
+    height: 760px;
+  }
+  .main1 {
+    width: 400px;
+    height: 362px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 50px;
+    position: absolute;
+    top: 200px;
+    left: 504px;
+  }
+  .top_title {
+    font-size: 20px;
+    color: aliceblue;
+    margin-right: 8px;
+  }
+  .all_input {
+    display: flex;
+    flex-direction: column;
+    line-height: 5px;
+    margin-left: 47px;
+  }
+  .all_input .input1 {
+    width: 380px;
+    height: 35px;
+    border-radius: 7px;
+    margin-top: 30px;
+    border: solid 0.1px white;
+  }
+  .all_input .input2 {
+    width: 380px;
+    height: 35px;
+    border-radius: 7px;
+    margin-top: 30px;
+    border: solid 0.1px white;
+  }
+  .re_password {
+    position: relative;
+    left: -143px;
+    margin: 20px;
+  }
+  .re_password a {
+    text-decoration: none;
+    color: white;
+  }
+  .foot_word {
+    color: white;
+    text-align: center;
+  }
+  .all_btn{
+    margin-left: -64px;
+  }
+  .all_btn .btn1 {
+    width: 180px;
+    height: 35px;
+    background-color: #1890ff;
+    margin-right: 10px;
+    color: white;
+    border-radius: 5px;
+    border: solid 0px #1890ff;
+  }
+  .all_btn .btn2 {
+    width: 180px;
+    height: 35px;
+    background-color: #1890ff;
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+    border: solid 0px #1890ff;
+    margin-left: 201px;
+    position: relative;
+    top: 3px;
+    left: -148px;
+  }
